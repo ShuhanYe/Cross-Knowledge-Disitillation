@@ -1,2 +1,3 @@
 # Cross-Knowledge-Disitillation
-![Alt text](main_fig.png)
+![Description of Image](1.png)
+
