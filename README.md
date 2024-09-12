@@ -1,2 +1,2 @@
 # Cross-Knowledge-Disitillation
-![Alt text](path/to/main_fig.png)
+![Alt text](main_fig.png)
